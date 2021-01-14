@@ -1,2 +1,5 @@
 # piano-simulator
-ECE243 Final Project (ARM Assembly and C)
+Assembly 
+C Language
+Interrupt-driven controller
+FPGA
