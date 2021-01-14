@@ -1,12 +1,12 @@
 # Projects
 
-[Piano Keyboard Simulator]
+  [Piano Keyboard Simulator]
 
-Assembly and C Language
-Interrupt-driven controller
-FPGA
+    Assembly and C Language
+    Interrupt-driven controller
+    FPGA
 
-[Magnetic Resonance Imaging Simulation]
+  [Magnetic Resonance Imaging Simulation]
 
-Matlab and Simulink
-Digital Signal Processing
+    Matlab and Simulink
+    Digital Signal Processing
